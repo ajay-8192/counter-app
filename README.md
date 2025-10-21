@@ -16,3 +16,7 @@ This project is a simple counter application built in **React (Vite)** using bot
 ```bash
 npm install
 npm run dev
+```
+
+## Preview Link
+LINK: [Counter App](https://counter-app-drab-tau.vercel.app/)
