@@ -19,4 +19,4 @@ npm run dev
 ```
 
 ## Preview Link
-LINK: [Counter App](https://690997451ecbee5f06cff5d1--guileless-sorbet-18f45d.netlify.app/)
+LINK: [Counter App](https://guileless-sorbet-18f45d.netlify.app/)
