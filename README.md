@@ -1,4 +1,4 @@
-# Assignment-2: Counter Application
+# Assignment: Counter Application
 
 This project is a simple counter application built in **React (Vite)** using both **Class** and **Function Components**.
 
@@ -19,4 +19,4 @@ npm run dev
 ```
 
 ## Preview Link
-LINK: [Counter App](https://counter-app-drab-tau.vercel.app/)
+LINK: [Counter App](https://690997451ecbee5f06cff5d1--guileless-sorbet-18f45d.netlify.app/)
